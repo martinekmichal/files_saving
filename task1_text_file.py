@@ -7,4 +7,5 @@ try:
 
 except Exception as e:
     print("Chyba při zápisu")
+    print()
 
