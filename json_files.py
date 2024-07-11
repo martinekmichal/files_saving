@@ -28,3 +28,4 @@ with open("ukazka.json", "r") as S:
     data2 = json.load(S)
 
 print(f"data z souboru: {data2}")
+print()
